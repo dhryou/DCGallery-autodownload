@@ -10,12 +10,12 @@ Depending on how many posts the gallery page has, this program may save _**liter
 1. Create a temporary file where all photos will be downloaded, and add that file to the directory address around line 271.
 > OLD: /Users/(Mac Computer Username)/Desktop/ <br/>
 > NEW: /Users/(Mac Computer Username)/Desktop/(File Name)/
-1. Create a `temp.txt` file in the location you'd like to download with the following information:
+2. Create a `temp.txt` file in the location you'd like to download with the following information:
 > Jan 06, 2019 (09:30:01 AM) <-- Date of last download <br/>
 > 336703 <-- Earliest post you want to have downloaded (1, if you'd like to download *everything*)
-1. Depending on the most recent post number, you may want to increase the above value to avoid having too many photos downloaded. You can check the post number for different dates.
-1. If you are downloading photos of Red Velvet's Seulgi, then great—run the program!
-1. If you are downloading photos of another celebrity, look through the code for single-line comments and replace all instance of id=seulgi with the id= of your choice and run!
+3. Depending on the most recent post number, you may want to increase the above value to avoid having too many photos downloaded. You can check the post number for different dates.
+4. If you are downloading photos of Red Velvet's Seulgi, then great—run the program!
+5. If you are downloading photos of another celebrity, look through the code for single-line comments and replace all instance of id=seulgi with the id= of your choice and run!
 
 ## Background Dev Story
 As a Korean, I've understood that K-Pop is a global phenomenon, but it had never impacted my life until I joined the military (*other than in 2013, when everyone asked whether I knew "Gangnam Style"*).
