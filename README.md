@@ -31,6 +31,6 @@ To download from **m.gallery** pages, simply replace all instances of the URL as
 ### IP Block
 Due to the high amount of traffic this program causes, DC Gallery has blocked access to their website for anyone who tries to make a high volume of requests in a short period of time, which is essentially what this program does as it goes through the list of posts to select "recommended posts" and opens each post to download all photos attached.
 
-*A getaround for this (if you have the patience) is to alter thread sleep time around line 220.*
+*A getaround for this (if you have the patience) is to alter thread sleep time around lines 173 and 220.*
 > t1.sleep(553); <-- 0.553s delay between each download <br/>
 > t1.sleep(1000); <-- 1s delay between each download
