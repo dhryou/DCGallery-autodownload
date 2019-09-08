@@ -4,7 +4,7 @@
 Downloads all "recommended post" photos from (Red Velvet) Seulgi's DC Gallery page. It can be tweaked, however, to download photos from any of your favorite celebrities with a DC gallery page (see below *Updates* for major and minor gallery differences).
 
 ## Beware
-Depending on how many posts the gallery page has, this program may save _**literally**_ millions of photos onto your computer and take several days to complete. Read *how to* to avoid this deluge.
+Depending on how many posts the gallery page has, this program may save _**literally**_ millions of photos onto your computer and take several days to complete. Read *How to* to avoid this deluge.
 
 ## How to
 1. Create a temporary file where all photos will be downloaded, and add that file to the directory address around line 271.
