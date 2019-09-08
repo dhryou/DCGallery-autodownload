@@ -233,7 +233,7 @@ class ImageDownload{
 			while ((readString = bfr.readLine()) != null){
 				if (readString.indexOf("<title>") >= 0){
 					end = readString.indexOf(" - 슬기 갤러리</title>");
-					//REPLACE the name of the gallery above (e.g. "슬기") with your choice
+					//REPLACE the name of the gallery above (e.g. "슬기" --> "조이")
 					postTitle = readString.substring(8,end);
 					System.out.println(postTitle);
 				}
