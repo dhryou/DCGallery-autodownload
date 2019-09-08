@@ -18,7 +18,7 @@ Depending on how many posts the gallery page has, this program may save _**liter
 1. If you are downloading photos of another celebrity, look through the code for single-line comments and replace all instance of id=seulgi with the id= of your choice and run!
 
 ## Background Dev Story
-As a Korean, I've understood that K-Pop is a global phenomenon, but it had never impacted my life until I joined the military (*other than in 2013, when everyone asking about whether I knew "Gangnam Style"*).
+As a Korean, I've understood that K-Pop is a global phenomenon, but it had never impacted my life until I joined the military (*other than in 2013, when everyone asked whether I knew "Gangnam Style"*).
 
 My interest in this particular celebrity has led me to develop a program where I could periodically update a repostiory of photos with the click of a button, without undergoing the menial task of individually downloading every photo from recommended posts.
 
