@@ -1,4 +1,4 @@
-# DC Gallery Photo Download
+# DC Gallery Images Download
 
 ## About
 Downloads all "recommended post" photos from (Red Velvet) Seulgi's DC Gallery page. It can be tweaked, however, to download photos from any of your favorite celebrities with a DC gallery page (see below *Updates* for major and minor gallery differences).
