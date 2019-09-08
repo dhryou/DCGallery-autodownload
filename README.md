@@ -1,7 +1,7 @@
 # DC Gallery Photo Download
 
 ## About
-This program will download all "recommended post" photos from (Red Velvet) Seulgi's DC Gallery page. It can be tweaked, however, to download photos from any of your favorite celebrities with a DC gallery page (see below *Updates* for major and minor gallery differences).
+Downloads all "recommended post" photos from (Red Velvet) Seulgi's DC Gallery page. It can be tweaked, however, to download photos from any of your favorite celebrities with a DC gallery page (see below *Updates* for major and minor gallery differences).
 
 ## Beware
 Depending on how many posts the gallery page has, this program may save _**literally**_ millions of photos onto your computer and take several days to complete. Read *how to* to avoid this deluge.
